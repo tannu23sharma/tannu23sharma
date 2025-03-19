@@ -13,11 +13,11 @@
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-🔹 **Languages**: Java, JavaScript, Python
-🔹 **Web Development**: HTML, CSS, JavaScript, React   
-🔹 **Databases**: MySQL
-🔹 **Version Control**: Git, GitHub  
-🔹 **Tools & Platforms**: Linux, VS Code, MS Excel 
+🔹 **Languages**: Java, JavaScript, Python <br>
+🔹 **Web Development**: HTML, CSS, JavaScript, React <br>   
+🔹 **Databases**: MySQL<br>
+🔹 **Version Control**: Git, GitHub <br>  
+🔹 **Tools & Platforms**: Linux, VS Code, MS Excel <br> 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
